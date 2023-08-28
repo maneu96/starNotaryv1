@@ -1,5 +1,5 @@
 # starNotaryv1
-Smart Dapp that allows a wallet to claim a "Star".
+Smart Dapp that allows a wallet to claim a "Star" (Smart Contract).
 
 This is a Simple Dapp implementation which allows wallets to interact with a smart contract, to claim a "Star" and change its name.
 It was developed using Truffle and tested in a localhost environment.
